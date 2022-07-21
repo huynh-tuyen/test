@@ -1,2 +1,2 @@
 #find . -type f
-git check-ignore **/*
+git status --ignored
